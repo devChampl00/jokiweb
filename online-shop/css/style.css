@@ -52,3 +52,9 @@ header.bg-dark {
   height: 200px;
   object-fit: cover;
 }
+
+#detailModal img {
+  min-height: 250px;
+  max-height: 300px;
+  object-fit: cover;
+}
